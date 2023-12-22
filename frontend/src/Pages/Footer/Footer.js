@@ -22,13 +22,13 @@ function Footer() {
               rel="noreferrer"
               className=" hover:text-cyan-500 hover:font-medium hover:text-xl duration-200"
             >
-              Naga Sai Rahul&Vishnu Priya
+              Vishnu Priya & Naga Sai Rahul
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <button>
               <a
-                href="https://github.com/Rahul21sai/BidBay_mern"
+                href="https://github.com/Rahul21sai/BID_BAY"
                 className="bg-white hover:bg-[#161B22] hover:text-white duration-200 border text-black py-2 px-4 rounded"
                 target="_blank"
                 rel="noreferrer"
