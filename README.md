@@ -1,9 +1,24 @@
 # <div align="center">BidBay</div>
-link = https://bid-bay.vercel.app/
+link to website = https://bid-bay.vercel.app/
 
 <div align="center">
   <img src= "https://github.com/Rahul21sai/BidBay_mern/assets/110412514/7917bacb-a93f-4985-8c88-c7fd4d421adb"
 />
+
+  ![image](https://github.com/Rahul21sai/BID_BAY/assets/110412514/23c897d5-9708-40e9-a250-b3ebd3757d9a)
+
+  ![image](https://github.com/Rahul21sai/BID_BAY/assets/110412514/50bd7a34-cb1d-45c5-8e06-b19b8b07f6af)
+
+  ![image](https://github.com/Rahul21sai/BID_BAY/assets/110412514/475e3cfa-cc7e-4a8b-97dc-7554f528d2fd)
+
+  ![image](https://github.com/Rahul21sai/BID_BAY/assets/110412514/ab6c119b-812f-44bb-be20-cf5058605e3f)
+
+  ![image](https://github.com/Rahul21sai/BID_BAY/assets/110412514/2a2e5cca-5928-4f2c-94e2-7fa1cbe9dce3)
+
+
+
+
+
 </div>
 
 <br/>
